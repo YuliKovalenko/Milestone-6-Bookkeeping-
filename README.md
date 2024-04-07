@@ -8,6 +8,10 @@
 - [triangle_1.py](triangle_1.py)
 ## Milestone 4 “Trade-offs”
 - [Trade_offs.py](Trade_offs.py)
+## Milestone 5 “Ancient, Inc.”
+- [generate_data.py](generate_data.py)
+- [report.py](report.py)
+- database.csv in Milstone 7 
 ## Milestone 7 “Ancient, Inc. 2”
 - [database.csv](database.csv)
 - [server.py](server.py)
