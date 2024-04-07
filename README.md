@@ -1,8 +1,7 @@
-# Milestone-6-Bookkeeping-
-Homework files are stored in the repository:
-equation.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/equation.py
-encrypt.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/encrypt.py
-decrypt.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/decrypt.py
-triangle_1.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/triangle_1.py
-Trade_offs.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/Trade_offs.py
-book_room_shelf.py - https://github.com/YuliKovalenko/Milestone-6-Bookkeeping-/blob/main/book_room_shelf.py
+# Ancient, Inc. Reporting Tool
+This project includes a Flask-based server for generating reports on employee birthdays and anniversaries, as well as a client utility for querying this server.
+ ## Start the server
+  To start the server, run the following command in the terminal: `python server.py`
+ This will start the server at `localhost:5000`. 
+ ## Using the client utility 
+ After starting the server, you can get a report by running the following command in another terminal: `python fetch_report.py <month> <department>`
