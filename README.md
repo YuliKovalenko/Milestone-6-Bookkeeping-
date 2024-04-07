@@ -1,7 +1,16 @@
-# Ancient, Inc. Reporting Tool
-This project includes a Flask-based server for generating reports on employee birthdays and anniversaries, as well as a client utility for querying this server.
- ## Start the server
-  To start the server, run the following command in the terminal: `python server.py`
- This will start the server at `localhost:5000`. 
- ## Using the client utility 
- After starting the server, you can get a report by running the following command in another terminal: `python fetch_report.py <month> <department>`
+# Milestones Projector
+## Milestone 1 “Back to school”
+- [equation.py](equation.py)
+## Milestone 2 “Secret messages”
+- [encrypt.py](encrypt.py)
+- [decrypt.py](decrypt.py)
+## Milestone 3 “Pascal's Triangle”
+- [triangle_1.py](triangle_1.py)
+## Milestone 4 “Trade-offs”
+- [Trade_offs.py](Trade_offs.py)
+## Milestone 7 “Ancient, Inc. 2”
+- [database.csv](database.csv)
+- [server.py](server.py)
+- [fetch_report.py](fetch_report.py)
+## Milestone 8 “Bookshelf”
+- [book_room_shelf.py](book_room_shelf.py)
